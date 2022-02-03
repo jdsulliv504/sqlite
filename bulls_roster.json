@@ -1,0 +1,121 @@
+[
+    {
+        "age": 24,
+        "contract_length": 0,
+        "first_name": "Tony",
+        "last_name": "Bradley",
+        "years": 4
+    },
+    {
+        "age": 24,
+        "contract_length": 0,
+        "first_name": "Lonzo",
+        "last_name": "Ball",
+        "years": 4
+    },
+    {
+        "age": 22,
+        "contract_length": 0,
+        "first_name": "Troy",
+        "last_name": "Brown Jr.",
+        "years": 3
+    },
+    {
+        "age": 27,
+        "contract_length": 0,
+        "first_name": "Alex",
+        "last_name": "Caruso",
+        "years": 4
+    },
+    {
+        "age": 24,
+        "contract_length": 0,
+        "first_name": "Tyler",
+        "last_name": "Cook",
+        "years": 2
+    },
+    {
+        "age": 32,
+        "contract_length": 0,
+        "first_name": "Demar",
+        "last_name": "Derozan",
+        "years": 12
+    },
+    {
+        "age": 22,
+        "contract_length": 0,
+        "first_name": "Ayo",
+        "last_name": "Dosunmu",
+        "years": 0
+    },
+    {
+        "age": 28,
+        "contract_length": 0,
+        "first_name": "Javonte",
+        "last_name": "Green",
+        "years": 2
+    },
+    {
+        "age": 26,
+        "contract_length": 0,
+        "first_name": "Malcolm",
+        "last_name": "Hill",
+        "years": 0
+    },
+    {
+        "age": 24,
+        "contract_length": 0,
+        "first_name": "Derrick",
+        "last_name": "Jones Jr.",
+        "years": 5
+    },
+    {
+        "age": 26,
+        "contract_length": 0,
+        "first_name": "Zach",
+        "last_name": "Lavine",
+        "years": 7
+    },
+    {
+        "age": 29,
+        "contract_length": 0,
+        "first_name": "Alfonso",
+        "last_name": "McKinnie",
+        "years": 4
+    },
+    {
+        "age": 22,
+        "contract_length": 0,
+        "first_name": "Marko",
+        "last_name": "Simonovic",
+        "years": 0
+    },
+    {
+        "age": 27,
+        "contract_length": 0,
+        "first_name": "Matt",
+        "last_name": "Thomas",
+        "years": 2
+    },
+    {
+        "age": 31,
+        "contract_length": 0,
+        "first_name": "Nikola",
+        "last_name": "Vucevic",
+        "years": 10
+    },
+    {
+        "age": 21,
+        "contract_length": 0,
+        "first_name": "Coby",
+        "last_name": "White",
+        "years": 2
+    },
+    {
+        "age": 20,
+        "contract_length": 0,
+        "first_name": "Patrick",
+        "last_name": "Williams",
+        "years": 1
+    }
+]
